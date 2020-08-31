@@ -1,0 +1,16 @@
+/* Declaração da variaveis mais atribuição de valor*/
+
+
+var nome1= "Beatriz";
+var nome2= "Beatriz";
+
+
+
+if (nome1 == nome2){
+    alert ( nome1 + " e " + nome2 + " os nomes são iguais")
+
+}
+   
+else{
+    alert ( nome1 + " e " + nome2 + " não são iguais")
+}
